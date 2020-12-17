@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GAME_KILL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Enemy.cpp
+C:\Users\nongn\source\repos\newSFML\SFML_104\Enemy.cpp(101,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_104.vcxproj -> C:\Users\nongn\source\repos\newSFML\x64\Debug\SFML_104.exe
